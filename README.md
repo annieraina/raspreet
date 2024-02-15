@@ -1,6 +1,7 @@
 # raspreet
 <DOCTYPE.html>
-  <head>
+  <html>
+    <head>
     
   </head>
 </html>

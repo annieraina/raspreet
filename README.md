@@ -2,7 +2,7 @@
 <DOCTYPE.html>
   <html>
   <body>
-    <h1> my first heading</h1>
+    <meta charset="utf-8"
     
   </head>
 </html>
